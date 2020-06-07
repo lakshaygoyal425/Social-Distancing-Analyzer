@@ -10,6 +10,6 @@ For instance, at a production line that produces defensive hardware, professiona
 INSTALLATION : 
 1. Fork the repository and download the code.
 2. Download the following files and place it in the same directory
-   https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
-   https://pjreddie.com/media/files/yolov3.weights
+https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+https://pjreddie.com/media/files/yolov3.weights
    
