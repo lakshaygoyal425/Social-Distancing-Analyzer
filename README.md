@@ -5,3 +5,11 @@
 To supplement our clients' endeavors and to help guarantee social distancing convention in their work environment, Landing AI has built up an AI-empowered social distancing identification device that can distinguish if individuals are keeping a sheltered good ways from one another by investigating continuous video streams from the camera. 
 
 For instance, at a production line that produces defensive hardware, professionals could coordinate this product into their surveillance camera frameworks to screen the workplace with simple adjustment steps. As the demo appears beneath, the finder could feature individuals whose separation is underneath the base satisfactory separation in red, and attract a line between to underline this."
+
+
+INSTALLATION : 
+1. Fork the repository and download the code.
+2. Download the following files and place it in the same directory
+   https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+   https://pjreddie.com/media/files/yolov3.weights
+   
