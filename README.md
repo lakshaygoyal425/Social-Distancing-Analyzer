@@ -7,6 +7,11 @@ To supplement our clients' endeavors and to help guarantee social distancing con
 For instance, at a production line that produces defensive hardware, professionals could coordinate this product into their surveillance camera frameworks to screen the workplace with simple adjustment steps. As the demo appears beneath, the finder could feature individuals whose separation is underneath the base satisfactory separation in red, and attract a line between to underline this."
 
 
+USAGE :
+
+python3 social_distancing.py --input [PATH TO INPUT VIDEO] --output [PATH TO OUTPUT VIDEO FILE] 
+
+
 INSTALLATION : 
 1. Fork the repository and download the code.
 Download the following files and place it in the same directory
